@@ -14,8 +14,6 @@ I build AI products that go beyond convincing demos to complete real business wo
 
 ### ccMonet - AI-native accounting
 
-**Senior Product Manager, AI | 2nd Brain**
-
 Product decisions across document intelligence, AI bookkeeping, bank reconciliation, governed agent workflows, and the wider accounting platform. The central design challenge: use probabilistic models to understand messy source data without letting them become the authority for financial facts or professional accounting decisions.
 
 - Designed the boundary among financial APIs, agent tools, source evidence, and accountant review.
