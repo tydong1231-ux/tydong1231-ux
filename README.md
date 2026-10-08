@@ -2,7 +2,7 @@
 
 **Senior AI Product Manager | Agentic Workflows | Enterprise SaaS | Fintech**
 
-Vancouver, BC / Singapore / Hangzhou
+Hangzhou / Singapore / Vancouver
 
 [Portfolio](https://botly.cc) | [LinkedIn](https://www.linkedin.com/in/ty-dong/) | [Meet me through AI](https://botly.cc/#explore)
 
